@@ -1,3 +1,5 @@
 welcome to shimogga
 welcome to jnnce
 modified in github
+altered in git bash
+
